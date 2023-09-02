@@ -1,2 +1,5 @@
-package Pizza.Interface;public interface iPreparable {
+package Pizza.Interface;
+
+public interface iPreparable {
+    void preparare();
 }
